@@ -5,7 +5,7 @@
 
 1. Clone the repository:
 
-git clone https://github.com/thakurdiwakar/CodeClause_Image-Background-Remover.git
+git clone https://github.com/Meghanamegha2002/Image-background-remover.git
 
 
 
